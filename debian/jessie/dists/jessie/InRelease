@@ -5,35 +5,35 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: jessie
-Date: Mon, 18 Apr 2022 06:31:03 UTC
+Date: Sun, 01 May 2022 15:02:29 UTC
 Architectures: armhf
 Components: main
 Description: Lomoware ARM packages hosted on lomoware github repository
 MD5Sum:
- 9950d2adc2575620bdb544f019543b15 5373 main/binary-armhf/Packages
- f712fafbad9e02121c05aec315c4b640 2020 main/binary-armhf/Packages.gz
+ 5da965d9961a629d4f7d27d2570e72f6 5373 main/binary-armhf/Packages
+ 4da0117ad1276cf1f71a844b454a687c 2025 main/binary-armhf/Packages.gz
  1688c221bd2c8d5a58b0bb51384675bd 157 main/binary-armhf/Release
 SHA1:
- 45d4a3316191c8c6d7785ff3e2631042c1adacfb 5373 main/binary-armhf/Packages
- 8a61dccf3a0085db4f2d499d7ff114f346cdf4b1 2020 main/binary-armhf/Packages.gz
+ f09aaa0337935977d854577bd34f7b79498a6bc6 5373 main/binary-armhf/Packages
+ c26fee1607558fb1ba81d41957e03e00136f99ea 2025 main/binary-armhf/Packages.gz
  be92bb0da17cd8e8bf44ce480327b75b6164411d 157 main/binary-armhf/Release
 SHA256:
- f99e906382734fab3e66af73ba4f474f88324187a578b54365479f584612affe 5373 main/binary-armhf/Packages
- 1cde66ff3544ceb6130ac4632e147fb4ebf4b4a15dc7845275a196c075481a5b 2020 main/binary-armhf/Packages.gz
+ 63b1f9141c5e8c09483dd554dbb60791921a6b0badbbc814bec36bbc32972627 5373 main/binary-armhf/Packages
+ 2755a1dc01af6710b1bbc0f678fd56ee26e577d4e57f1236373b2b8551a3c791 2025 main/binary-armhf/Packages.gz
  290a2817f92bb1575d99a0823d43db664f13b47c22b4d3babbf8b11adb257c6b 157 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmJdBagACgkQu3aCdvPg
-4s0vcw//VgDaIPMTtbzHk6KikKF8VtvKYozshUo1X/0WHse5LTCEcyOeuBQrgOQJ
-0NRHlDyeSCe3/4neaz9bDg9V2i2qlTaH4/vGT76aZBewEuoZGOaRRdwjNEd+KBIj
-9PegVtECVg+qTtUOH2A3FG2rknCNk/flq8m3QGzK1aspKkaHmAg3kSwsfs4FyfxE
-EcI3i6qybjEZbXC6PU3CJDNfJh//0mc8Y1jZrdWPD/+WCBErxSsTeaLwH8CJ6hQ7
-o+Mlfhw4Y+QO3M+PTs/+PBwPCE1zfgGGhHvU4fzqC6xUKhP4t5R5pENTjLVk1Ax6
-ocYBoinTd0D6wEleM9MxFrMhD+XxyMJlQeJQxtIGrQvzXOZvjh2ngEyY2g7qemij
-rMdg2UL/ZHwHedODPbbdj3aJJ3+8eXubBljzkQZphazqZHAoZdogvT0LxGUgkksZ
-+Z6O85KbowAslg8q9up+cBDjDYZ+72WHU6RHNNhgCtHspZWduKZDIlnqu+uOw8Wx
-8G8vmc105rM5DB8bTVmQbUwv1J6gNxmBt4Qem80s7rRKgAhDHCaBNl7DaXfZX1sa
-eugj8sY5b9BAU8znmHYhh9svmioYrOhL3cVTgNrvWCtTZz/zbk/UmzwDobl3iz6o
-1lNWddOZG0l0GakxKxFYCSTCDaQ38UBMB8kYg8G0un1S9Izn4rI=
-=24jG
+iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmJuoQYACgkQu3aCdvPg
+4s0wgA//aFmMhUqUSV+3k/HGQKQWZsiiNVRPrG0SDG2rkWMkX15wnfdkjb543ZZI
+9wwrOyVzGEPQdU1MFf0NN1ORMFXbqcHws4F4h0gj2qwdclS4I21v4WMcx8D2XsY6
+ZdhKlF8xTWiZ13mssAtmSoPdIM1W8O1vS6DSbVH33BWAXBVYnqI/0SmbEvBZzNGa
+JEeBEQ0LRTeEX2fYX4xFoeGHevWLZ6g86cY4P4uc+uXCMZ0E+tFW7nQvjfb8rPRH
+2RAQokDtHcugcINgV8X9JVpIxNPWjcU+0G4s2QakGMOmVUs2rr2pXDUGaj9o9iYI
+rZ7NEzOTTVepvIeq70TAw9pEattnuDG0IXUc4Wo/gpqO1WMFpzQlRzy/CRosMqQh
+iJxpwszlRPmuo839rZpMW8YzXiWu/9Sa5ydU3nNvj+wjHOf9BIahJLa+2+/erE0y
+wSDhCs5OmbRpkHSakQti47ENyX/+R/rRvglB++fj0k7cYKuNjUf1B2fLodaTkzFz
+F0Tui8sAipM5/UvDe+lR41szolyJN0pfgDS5NtMFH+69SFe40U1MpODRE8fMRGDp
+kGZ/hVkjY2lgIyp8fo0BsdLI2GVEs74y65T+B4DktPRECLErqbAKhyBZebPx5++q
+2Wz0zFMQvTLGRYJSXObNrNOFrBcFyXLkcP532Th8rphzjly3ODg=
+=1+hA
 -----END PGP SIGNATURE-----
