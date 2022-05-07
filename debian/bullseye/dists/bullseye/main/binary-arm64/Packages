@@ -80,6 +80,20 @@ SHA1: d0cdff6e7533725abc8db01f96fdd80acdd75833
 MD5sum: 49f9d2b2d52b2ba777aebbd2b1578344
 Description: Lomorage Base Package, including usbmount mod, and other deps
 
+Package: lomo-cloud
+Version: 2022-05-07.10-34-58.0.316fd2b
+Maintainer: Lomoware
+Architecture: arm64
+Priority: 1
+Section: main
+Filename: pool/main/l/lomo-cloud/lomo-cloud_2022-05-07.10-34-58.0.316fd2b_arm64.deb
+Size: 6978612
+SHA256: 83c2fb19a1987cf67c674fa02a1e6c17602378e558ce0a42eba4aa747237baec
+SHA1: 47316f3df29e7d8e2b25da25d600c34b605d7510
+MD5sum: 83ab8a5d294e30546bec30cfd27d9e24
+Description: lomo cloud
+Depends: sqlite3
+
 Package: lomo-frame
 Version: 20210825+b7a3e5d
 Architecture: all
