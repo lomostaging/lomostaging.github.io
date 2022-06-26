@@ -5,13 +5,13 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: buster
-Date: Thu, 02 Jun 2022 10:32:44 UTC
+Date: Sun, 26 Jun 2022 08:01:57 UTC
 Architectures: armhf arm64 amd64
 Components: main
 Description: Lomoware ARM packages hosted on lomoware github repository
 MD5Sum:
- 719de0e05b94f6c55e735f11ff2f1e56 7287 main/binary-armhf/Packages
- 8d3df630f241a7755c5953d0fdf8e749 2834 main/binary-armhf/Packages.gz
+ eb9642da6b8768ceb8ff16144a4244db 7287 main/binary-armhf/Packages
+ 55ea21ded81d8953e214b8f98c757af3 2837 main/binary-armhf/Packages.gz
  1688c221bd2c8d5a58b0bb51384675bd 157 main/binary-armhf/Release
  cca5386ff782df6cf626f985b3b52638 6442 main/binary-arm64/Packages
  2466421013f6eb71bbf2a45af228c2ea 2571 main/binary-arm64/Packages.gz
@@ -20,8 +20,8 @@ MD5Sum:
  01da2819d8e76b12532b278b280d13d1 1458 main/binary-amd64/Packages.gz
  b2a197d8dc0349dd63cc3865ef038ae2 157 main/binary-amd64/Release
 SHA1:
- 66df1cbe3931d77cf133650e7bbb94f0e6cb392c 7287 main/binary-armhf/Packages
- a27a5fdd55350359ebb01f88a5447db65c87ffea 2834 main/binary-armhf/Packages.gz
+ 9c15263c85a6ceaefa1eaf8723e3d139ae8ec1cd 7287 main/binary-armhf/Packages
+ 43604896787624f83b207560e5a8fd2ada7842e1 2837 main/binary-armhf/Packages.gz
  be92bb0da17cd8e8bf44ce480327b75b6164411d 157 main/binary-armhf/Release
  2a575eb4811885e4fa8be7a541274ece48073855 6442 main/binary-arm64/Packages
  6cf077b72b8c97fb8b1574413a4c7be99fbbf78d 2571 main/binary-arm64/Packages.gz
@@ -30,8 +30,8 @@ SHA1:
  3421d3dd9c9a7b5c8bae47660b80dafb2f2559d5 1458 main/binary-amd64/Packages.gz
  3fea147dd9287a5b6358837b5c4d11e5fa4cc960 157 main/binary-amd64/Release
 SHA256:
- 9b5cd8fadb211141a2961692cb1c65decf417309c2983ed070ba561abfb8b45e 7287 main/binary-armhf/Packages
- 96cd86e801e73379e81135d44ae0b9db2d99348912b810e96e7153c4d84f1579 2834 main/binary-armhf/Packages.gz
+ 6596a754f73ca156ea57733d56de468ce1ec0820538a921094d3cd14d0d0376c 7287 main/binary-armhf/Packages
+ b7cd6b830ce31ac41cba4c8cb179286a92eaec5a8299d5aeac5ca3023387c769 2837 main/binary-armhf/Packages.gz
  290a2817f92bb1575d99a0823d43db664f13b47c22b4d3babbf8b11adb257c6b 157 main/binary-armhf/Release
  59e2dfe92245397180c5b5ea7a712d44bf196f68962e167dac2620b97aaceeff 6442 main/binary-arm64/Packages
  b9d9508b1e78ba513fb66d2a0f1bf21af84526ba358065153ded2037abc5601c 2571 main/binary-arm64/Packages.gz
@@ -41,17 +41,17 @@ SHA256:
  75e71f5d2f0c475ad72b5ce410f0867f3eef06e25f937774eabc5f2d268a85fa 157 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmKYkc0ACgkQu3aCdvPg
-4s30wQ//bw4mD3/tCXgrJjH8lbpa8hwjDcDvXOjaQEqJX4LyjnuO2wyzCOqC+T72
-ZKdb8wbpKv1PPG4u+33621wXdnDBY75nDL1I7RIgurs9lcOC8FTOWXCWNwuM2hva
-nhWQcIeGekfA3Yu7AeD9zemCb/Cy+6vZHHFNkah64HjQZO1NGBUgIYkVxGg/OS2w
-QUrSTV0tCdrAyrNxgQNHtbniayJm8yvZX6+RLOAJVT6ySFndk2Wh3s7gpxb3SvNL
-NTTuqcGXgESUVKlRuzEfEyZupZRMUs5hK5waSq2lvonlDy1TyEdNidMj83s12HsI
-o9Prm7tmUx7/r2obE3fpyrrFvAJAnp5QnyBoVTPEQ1zWaJHTwUHFe0qmFGJQYr72
-sRm5u8Pr6tlsLOL+CYCv9Z/94I0qJfaBGOKquaxa2tyn0tk7Hy7+RcYQfJSXx+30
-plvTX1jqejeys+d+gesxUZklzGjkltJzoheIDSvu8DnNkhSV+STA8iKX5ud7wQZd
-CoRbYdsxQwcaPTen/GWE7f7cufyVy+wpDNIr+484T/jBPVrjQ3HvASXvbThKz5ys
-vAtBYuLiGvoepO6ugYCEfGSK53jsImfoe94mf/7YCKIvxrpTd/0X7soZ8W9UhIFy
-W99KJKjsOlJvzFd/RynC8YqjlKY+MBmxCcJ9hbG5upI/VxFhnoc=
-=OpPS
+iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmK4EnYACgkQu3aCdvPg
+4s2w0w/+ILiw6avtE3yCWNXez8zT+SYT5FghZDuWxT83EI6dgHu7X7vpYxL9ZKJx
+num9eM42iqHumHSEZxwlNUt3gRH7biSwmUH9DsRKkpn4ZV3ZaRFaSPw96LGY1hBQ
+SecCM3Lcl/VEVZusE7MuhhUOa9Em9HWWtXG52m4N6Ap626IYODTcfX75Fb2nN0wp
+xgs+onthPnFL4iVA8TRjrvcM1kNFiuuQVWIWOk+U4CvGjFV4hNube2K13Z33uVVr
+io3R/jrs5ekiq63ILhppqr634Il89fQw7/xFBABx8CzmuinADPymEBGhl0hMI3Bk
+Bwc4iWGDGWYD0/oW56q7x4YdzGSq7On6sMtB4GmciAXG6JdbZpAQWBXfH0qVMhud
+gt7xQyvySaB+MbnMmltr2sSvtZFiq1BOA3KzkT7MhazBCPCxVSkneA8Ubgosb8rd
+wVqL+vWuy6H9Owz0PpNK2zFAjGT4kGygpkL0dUTWSRZQSmksTfVLX1NmY7jqADFo
+5FUCBs+NGT6/teoMCm+AyAyxXt7h3Lhut2KASIaJ9Zohaj+CzGmSq8oAkXAlWBEM
+crkXVsNsUqWv7vz6/5wlst23Atv8lPuJoGNOGr4Y4LFn3rl8ud1nzps9NrYX617O
+PfkmTi1jRXdf3JZFecYsGNEjfpRS1tkjXfvk2R2t3WKmyqV1yUg=
+=StT0
 -----END PGP SIGNATURE-----

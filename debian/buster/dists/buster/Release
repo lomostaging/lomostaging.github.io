@@ -2,13 +2,13 @@ Origin: Lomorage
 Label: Lomorage
 Suite: stable
 Codename: buster
-Date: Thu, 02 Jun 2022 10:32:44 UTC
+Date: Sun, 26 Jun 2022 08:01:57 UTC
 Architectures: armhf arm64 amd64
 Components: main
 Description: Lomoware ARM packages hosted on lomoware github repository
 MD5Sum:
- 719de0e05b94f6c55e735f11ff2f1e56 7287 main/binary-armhf/Packages
- 8d3df630f241a7755c5953d0fdf8e749 2834 main/binary-armhf/Packages.gz
+ eb9642da6b8768ceb8ff16144a4244db 7287 main/binary-armhf/Packages
+ 55ea21ded81d8953e214b8f98c757af3 2837 main/binary-armhf/Packages.gz
  1688c221bd2c8d5a58b0bb51384675bd 157 main/binary-armhf/Release
  cca5386ff782df6cf626f985b3b52638 6442 main/binary-arm64/Packages
  2466421013f6eb71bbf2a45af228c2ea 2571 main/binary-arm64/Packages.gz
@@ -17,8 +17,8 @@ MD5Sum:
  01da2819d8e76b12532b278b280d13d1 1458 main/binary-amd64/Packages.gz
  b2a197d8dc0349dd63cc3865ef038ae2 157 main/binary-amd64/Release
 SHA1:
- 66df1cbe3931d77cf133650e7bbb94f0e6cb392c 7287 main/binary-armhf/Packages
- a27a5fdd55350359ebb01f88a5447db65c87ffea 2834 main/binary-armhf/Packages.gz
+ 9c15263c85a6ceaefa1eaf8723e3d139ae8ec1cd 7287 main/binary-armhf/Packages
+ 43604896787624f83b207560e5a8fd2ada7842e1 2837 main/binary-armhf/Packages.gz
  be92bb0da17cd8e8bf44ce480327b75b6164411d 157 main/binary-armhf/Release
  2a575eb4811885e4fa8be7a541274ece48073855 6442 main/binary-arm64/Packages
  6cf077b72b8c97fb8b1574413a4c7be99fbbf78d 2571 main/binary-arm64/Packages.gz
@@ -27,8 +27,8 @@ SHA1:
  3421d3dd9c9a7b5c8bae47660b80dafb2f2559d5 1458 main/binary-amd64/Packages.gz
  3fea147dd9287a5b6358837b5c4d11e5fa4cc960 157 main/binary-amd64/Release
 SHA256:
- 9b5cd8fadb211141a2961692cb1c65decf417309c2983ed070ba561abfb8b45e 7287 main/binary-armhf/Packages
- 96cd86e801e73379e81135d44ae0b9db2d99348912b810e96e7153c4d84f1579 2834 main/binary-armhf/Packages.gz
+ 6596a754f73ca156ea57733d56de468ce1ec0820538a921094d3cd14d0d0376c 7287 main/binary-armhf/Packages
+ b7cd6b830ce31ac41cba4c8cb179286a92eaec5a8299d5aeac5ca3023387c769 2837 main/binary-armhf/Packages.gz
  290a2817f92bb1575d99a0823d43db664f13b47c22b4d3babbf8b11adb257c6b 157 main/binary-armhf/Release
  59e2dfe92245397180c5b5ea7a712d44bf196f68962e167dac2620b97aaceeff 6442 main/binary-arm64/Packages
  b9d9508b1e78ba513fb66d2a0f1bf21af84526ba358065153ded2037abc5601c 2571 main/binary-arm64/Packages.gz
