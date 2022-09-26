@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Lomorage
+Label: Lomorage
+Suite: stable
+Codename: jessie
+Date: Sun, 28 Aug 2022 06:56:26 UTC
+Architectures: armhf
+Components: main
+Description: Lomoware ARM packages hosted on lomoware github repository
+MD5Sum:
+ a44b4816b8161d4d8b209b2ac97cb21f 5800 main/binary-armhf/Packages
+ 763d31f40fbf2598fb69b2a71192fecc 2170 main/binary-armhf/Packages.gz
+ 1688c221bd2c8d5a58b0bb51384675bd 157 main/binary-armhf/Release
+SHA1:
+ 6fe9a18c2533367eebc5b8c5e6337c6019f9d59b 5800 main/binary-armhf/Packages
+ da4207dea6af02345a8f641987fc79c54ae3db91 2170 main/binary-armhf/Packages.gz
+ be92bb0da17cd8e8bf44ce480327b75b6164411d 157 main/binary-armhf/Release
+SHA256:
+ 09ef2ad714248c66c9a8626a32471b2c2860109bca4eb08806a395652cf26bad 5800 main/binary-armhf/Packages
+ 3a1927c92c9664dd66917f3a639745199b8001be4921f2e37ccdcd3c9f6eabd2 2170 main/binary-armhf/Packages.gz
+ 290a2817f92bb1575d99a0823d43db664f13b47c22b4d3babbf8b11adb257c6b 157 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmMLEZoACgkQu3aCdvPg
+4s1uyg/+OUQTz+FFtH8tFM8ThzjV5+8TABV0Q/FtVJEEfphLBVFSILdXlcFxQ85Z
+N/Gv1qOURv+nCm+sFmlYWJ3dfQXVFQS3YSsoNklgeCqCsul54z0joX3+EG078soR
+y8MhxMeWzdCsjuvWd0N+uax6KXtovP1eqLMDdJHj+QGDEeRhR6h3X9uOQGVDcY8s
+SyzJdLZqC/AAziFt3rSUpF7uIDxR6NDWSxN9qqNhqiJ5hmUHDdEsuaat68u1JNWY
+Td0juRi8qHayI/8eZOVyD7MLnadsKwU0JBTcfMlxRaJqVj4WLiKK1IUan01HggPo
+rutwrT/nFhEyXrvGRR1o0/5dPHQ1A6ZF2awz68bd8EBnEg7DV4WYgZsd6x+s5rnU
+gsLk9ayRNpXp0vJNcKOzN4da3ji8EXWIhQXh2uhmTmZ88dLSvwgfYn6ae3p0kV+q
+Zc3y6fDHfFnKnRBk84zrSj5Qb7YoO5MHscG6Hg04p8tPvlEzMUupQyEWFnAodmhf
+lGdPHdzIvDtoOqTtFFPyz2qAqIZBWc7fZFe+KU0greKOKcEG3AKYfN23aiFM3r9D
+HhFwdiu4cLUAjazAdb5HDJ4axkpCrhwI3VjA7x0ioHKjRnXTf+inSTg49T9enpzj
+kJdCxzBGMP4fIciy1rnhnhswMretozne+4Nojr1ZHrytmKyqGa4=
+=1epG
+-----END PGP SIGNATURE-----

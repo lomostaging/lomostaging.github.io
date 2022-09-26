@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Lomorage
+Label: Lomorage
+Suite: stable
+Codename: bionic
+Date: Sun, 28 Aug 2022 06:56:46 UTC
+Architectures: amd64
+Components: main
+Description: Lomoware packages hosted on lomoware github repository
+MD5Sum:
+ 83e8681ae5db34371de07c8169b9bfb2 4544 main/binary-amd64/Packages
+ 6eb54543edf66fe01cba2173015be98d 1947 main/binary-amd64/Packages.gz
+ a7ea2f969c06bb5d40720b349cc3502c 153 main/binary-amd64/Release
+SHA1:
+ 8dd7b2215610718637932eea02d474030e0b8d22 4544 main/binary-amd64/Packages
+ f59b5d0d4c75869755d08513852f16f75e00e6ee 1947 main/binary-amd64/Packages.gz
+ b5bba940f56b7a5f25b45ff3e097a478a430385e 153 main/binary-amd64/Release
+SHA256:
+ 451102c3810f0169474edc0a0a7d16f1ca4d1a60f32329f45106fe8d9ab37b1c 4544 main/binary-amd64/Packages
+ af49c70f2441e4de7fa864eb5697a3b2c6d6e5faca9e4fea25a2b1c4f7a20618 1947 main/binary-amd64/Packages.gz
+ bac785b24d62d4f840e0c3e9a8d11eca4c42e3ba47febd6bbe87cd862e08957d 153 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEOCNoWaAI+4YMvVkhu3aCdvPg4s0FAmMLEa4ACgkQu3aCdvPg
+4s1jNA//Ytkubh9QwkFbPziNG1FTpI6alUFK6GPvYoHWLdxbf+FOiny58PEDEXKA
+yassPtUhM3JI+NYJZ77ZR1QVuy5XezTn/nyDwEyfzS46yBFwAG15myWYL2aspa6J
+V3LnNdzcoVMbCofHb7Xp2vhIO/O5ZjHzy+ba9konk9HW1ExBfu4g8UN9kpMQPSIU
+hnyb9/6OVMvQaZC74iaPLpy39REA1pGEKWASr1DOlahoKRBwr8Qf6VyCgR1e57KU
+2M2EP0f3ie0Hh/XMbQIGG82G5ODGOmbYtZ5dX1p8JW3OJLZkJVXigHACu3D6rFQq
+FkShlsLzRyiiCDdJGy0Gy3AJzjb8jj3feOTYXxd+AQjQ6HoBTvCCPuBVVoMAUngn
+cWypVzTmLZt6FkXTp0TrRlVyPbZwuZSVTyv+ccsD1jL0BTWYF24y9XSndvljaBqd
+lIJT5LBpbGCknpwYWAn/V3U5BdI3bJ0qIL0qCTKYzbAdJpiwyUftHI4oLLNIMZ3X
+fL66zE6LpXz0291Tzj1V+il57uhoyjZDDkxBcsjh7P/RKtFcmKVkNdD8uYOqKHgF
+13wjoESCfexo15Nh6A92usUPpx0tsb2PHrcRzSggAdWWxYQnNmmBPpxJA7ZlmBkg
+ZN5+5fV76yxThLPL1BfbLPi5Nwn/vKoEnGJHobih1OvCp+E2sKA=
+=akPw
+-----END PGP SIGNATURE-----
